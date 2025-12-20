@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, Supabase, Projet Management**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Raikirimaru/Raikirimaru/issues)**
+💬 Ask me about **Node.js, React, Go, Firebase... or anything [here](https://github.com/Raikirimaru/Raikirimaru/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,java,nextjs,mysql,kotlin,redis,nestjs,dart,flutter" /><br>
+    <img src="https://skillicons.dev/icons?i=go,nodejs,python,javascript,typescript,express,firebase,mongodb,java,nextjs,mysql,kotlin,redis,nestjs,dart,flutter" /><br>
 </div>
 
 <br/>
