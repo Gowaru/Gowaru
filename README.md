@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Raikirimaru.Raikirimaru" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id="Gowaru.Gowaru" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mawuli+Godwin+Alexandre+AMEVOR!;+I'm+Backend+Developer!" />
@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, Supabase, Projet Management**
 
-💬 Ask me about **Node.js, React, Go, Firebase... or anything [here](https://github.com/Raikirimaru/Raikirimaru/issues)**
+💬 Ask me about **Node.js, React, Go, Firebase... or anything [here](https://github.com/Gowaru/Gowaru/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -59,18 +59,18 @@
 <div align=center>
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Raikirimaru&show_icons=true&theme=ambient_gradient&rank_icon=github"
+    srcset="https://github-readme-stats.vercel.app/api?username=Gowaru&show_icons=true&theme=ambient_gradient&rank_icon=github"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Raikirimaru&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gowaru&show_icons=true" />
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Raikirimaru&layout=donut"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowaru&layout=donut"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Raikirimaru&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gowaru&show_icons=true" />
 </picture>
-<img width=450 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Raikirimaru&count_private=true&theme=ocean_gradient&border_radius=10" alt="streak stats"/>
+<img width=450 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Gowaru&count_private=true&theme=ocean_gradient&border_radius=10" alt="streak stats"/>
 </div>
 
 <br/><br/>
